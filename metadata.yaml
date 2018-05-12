@@ -1,10 +1,16 @@
 _repo: Voyage-en-automobile-dans-la-Hongrie-pittoresque-Fatra-Tatra-Matra_47756
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47756-h/images/cover.jpg
 creator:
   author:
     agent_name: Marge, Pierre
     gutenberg_agent_id: '42806'
     url: http://www.gutenberg.org/2009/agents/42806
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47756#Voyage-en-automobile-dans-la-Hongrie-pittoresque-Fatra-Tatra-Matra
 gutenberg_bookshelf: FR Voyages et pays
 gutenberg_issued: '2014-12-23'
 gutenberg_type: Text
