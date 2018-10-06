@@ -20,6 +20,8 @@ language: fr
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Voyage en automobile dans la Hongrie pittoresque
 
   Fatra - Tatra - Matra'
